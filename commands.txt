@@ -8,3 +8,29 @@
     8  git init
     9  history
    10  history > commands.txt
+   11  cat commands.txt
+   12  ls
+   13  git remote -v
+   14  git status
+   15  git branch -M main
+   16  git add .
+   17  git status
+   18  git commit -m "Initial commit"
+   19  history
+   20  git status
+   21  git push -u origin main
+   22  git remote add origin https://github.com/EktaPatel-01/java-projects.git
+   23  git remote -v
+   24  git push -u origin main
+   25  ssh-keygen -o
+   26  cd C:
+   27  cd Users/ektap/.ssh/
+   28  cat id_rsa.pub 
+   29  git push -u origin main
+   30  ggdng
+   31  git stauts
+   32  git status
+   33  git remote
+   34  git remote add origin https://github.com/EktaPatel-01/java-projects.git
+   35  git push origin main
+   36  history > commands.txt
