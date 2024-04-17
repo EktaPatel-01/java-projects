@@ -1,0 +1,10 @@
+    1  git config --global -l
+    2  git config --global user.name ektap
+    3  git config --global user.email ektap@kpit.com
+    4  git config --global -l
+    5  ls
+    6  mkdir projects
+    7  cd projects
+    8  git init
+    9  history
+   10  history > commands.txt
